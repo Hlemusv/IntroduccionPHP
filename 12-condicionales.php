@@ -5,7 +5,7 @@ $admin = false;
 if($autenticado && $admin ) {
     echo "te has  autenticado correctamente";
 } else {
-    echo "oye pa donde vas gonorrea, inicia sesión";
+    echo "oye no has iniciado sesión";
 }
 
 // If anidados...
